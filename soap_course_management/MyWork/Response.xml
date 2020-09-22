@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getCourseDetailsResponse>
+<id>Course1</id>
+<name>Web Service SOAP</name>
+<description>Comment creer un web service SOAP</description>
+</getCourseDetailsResponse>
